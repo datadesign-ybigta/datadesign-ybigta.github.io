@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Web Study Course"
+description: "디자인팀 웹스터디"
+date: 2017-09-10
+tags: [웹, 테스트, 스타일]
+comments: false
+share: true
+---
+
 # Web Study Course
 
 ## Part 1. Frontend Basics
